@@ -13,7 +13,8 @@ A feature-rich C++ Code Editor built with Qt6 for Windows.
 - Font Size Control
 
 ## screenshot
-https://raw.githubusercontent.com/snehal-thombare08/CodeEditor/74b5614bfdaf9b356ab75e1572b162471ba31ced/Screenshot%202026-06-12%20084957.png
+## Screenshot
+![CodeEditor Screenshot](https://raw.githubusercontent.com/snehal-thombare08/CodeEditor/74b5614bfdaf9b356ab75e1572b162471ba31ced/Screenshot%202026-06-12%20084957.png)
 
 ## Built With
 - C++17
