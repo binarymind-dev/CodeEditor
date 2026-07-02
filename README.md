@@ -1,5 +1,5 @@
 <div align="center">
-# ⚡ CodeEditor
+**⚡ CodeEditor**
  
 **A feature-rich C++ code editor built with Qt6 for Windows**
  
