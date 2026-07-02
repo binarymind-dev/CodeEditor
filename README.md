@@ -108,7 +108,7 @@ Contributions are welcome!
 ## 👩‍💻 Author
 
 **Snehal Thombare**
-[![GitHub](https://img.shields.io/badge/GitHub-snehal--thombare08-181717?style=flat-square&logo=github)](https://github.com/binarymind-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-BinaryMind08-181717?style=flat-square&logo=github)](https://github.com/binarymind-dev)
 
 ---
 
