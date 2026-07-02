@@ -109,8 +109,7 @@ Contributions are welcome!
 
 **Snehal Thombare**
 
-[![GitHub](https://img.shields.io/badge/GitHub-snehal--thombare08-181717?style=flat-square&logo=github)](https://github.com/snehal-thombare08)
-
+https://github.com/binarymind-dev
 ---
 
 ## 📄 License
